@@ -127,7 +127,7 @@ CREATE  campgrounds/:id/comments           POST
 * User can only delete his/her campgrounds
 * Hide/Show edit and delete buttons
 
-# Editing Comments
+#Editing Comments
 * Add Edit route for comments
 * Add Edit button
 * Add Update route
@@ -148,7 +148,7 @@ Comment Destroy Route:    /campgrounds/:id/comments/:comment_id
 * Hide/Show edit and delete buttons
 * Refactor Middleware
 
-# Adding in Flash!
+#Adding in Flash!
 * Demo working version
 * Install and configure connect-flash
 * Add bootstrap alerts to header
